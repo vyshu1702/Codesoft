@@ -12,13 +12,13 @@ A guessing game where the player must find a number between 1 and 100 within a l
 - Attempt limit (default: 10)
 - High/Low feedback
 - Score tracking and replay option
-
+### Outputs :
+![Round 1](1.png)
+![Round 2 & 3](2.png)
+![Round 4](3.png)
 ### Run:
 ```bash
 javac NumberGuessGame.java
 java NumberGuessGame
 
-### output images
-  ![Round1](1.png)
-![Round 2 & 3](2.png)
-![Round 4](3.png)
+
