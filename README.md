@@ -13,8 +13,11 @@ A guessing game where the player must find a number between 1 and 100 within a l
 - High/Low feedback
 - Score tracking and replay option
 ### Outputs :
+- Round 1:
 ![Round 1](1.png)
+- Round 2 & 3:
 ![Round 2 & 3](2.png)
+- Round 4:
 ![Round 4](3.png)
 ### Run:
 ```bash
