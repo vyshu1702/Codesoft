@@ -19,7 +19,6 @@ javac NumberGuessGame.java
 java NumberGuessGame
 
 ### output images
-  ├── 1.png
-  ├── 2.png
-  ├── 3.png
- 
+  ![Round1](1.png)
+![Round 2 & 3](2.png)
+![Round 4](3.png)
