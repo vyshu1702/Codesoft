@@ -9,7 +9,7 @@ A guessing game where the player must find a number between 1 and 100 within a l
 
 ### Features:
 - Random number generation
-- Attempt limit (default: 7)
+- Attempt limit (default: 10)
 - High/Low feedback
 - Score tracking and replay option
 
