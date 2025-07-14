@@ -18,8 +18,8 @@ A guessing game where the player must find a number between 1 and 100 within a l
 javac NumberGuessGame.java
 java NumberGuessGame
 # First round
-<img src = "1.png">
+(1.png)
 # Second and Third round
-<img src = "2.png">
+(2.png)
 # Fourth round
-<img src ="3.png">
+(3.png)
